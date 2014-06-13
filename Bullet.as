@@ -1,7 +1,6 @@
 ﻿package  {
 	import flash.display.MovieClip;
 	import flash.events.Event;
-	
 	public class Bullet extends MovieClip {
 		
 		private var speed:int = 10;
