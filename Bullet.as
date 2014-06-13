@@ -43,6 +43,5 @@
     		this.parent.removeChild(this); //tell this object's "parent object" to remove this object
 
 		}
-		
 	}
 }
